@@ -5,8 +5,6 @@ A multilingual AI chatbot built with **Streamlit** and **Ollama** that runs enti
 The chatbot automatically detects the user's language and responds in **English**, **Sinhala**, or **Tamil** without requiring an internet connection.
 
 ---
-## Screenshot
-
 ![Multilingual Offline Chatbot](demo.png)
 
 
@@ -152,16 +150,6 @@ The chatbot will open automatically in your browser.
 - Streamlit
 - Ollama
 - Gemma 3:12B
-
----
-
-## 📷 Screenshot
-
-Add a screenshot of your chatbot here.
-
-```
-images/chatbot.png
-```
 
 ---
 
